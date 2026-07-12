@@ -1,4 +1,6 @@
-this is a test
+This is a custom modpack for Lethal Company.
+
+Download it here: [Download Modpack](https://pages.github.com/)
 
 
 # Moons
