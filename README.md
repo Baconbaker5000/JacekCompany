@@ -6,11 +6,11 @@ this is a test
 ### Taiga
 <details>
 <summary>Interiors</summary>
-40% - Woodland Mansion
 
-40% - Stronghold
-
+40% - Woodland Mansion<br>
+40% - Stronghold<br>
 20% - End City
+
 </details>
 
 
