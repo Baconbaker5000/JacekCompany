@@ -10,17 +10,20 @@ Download it here:  [**DOWNLOAD LINK**](https://baconbaker5000.github.io/JacekCom
 # Changelog
 - Lots of new moons, all free!
 - Lots of new enemies
+- Tons more scraps
 - You can fight with your fists by pressing J and using both mouse buttons
 - Shotguns (and Shells) are buyable and on sale!
 - Getting drunk makes you capable of great speeds
 - The apparatus is twice as valuable and twice as dangerous
 - No more gambling
 - Emote by pressing C
+- 9 pages of suits!
 
 
 # Moons
 
 ### Taiga
+A Minecraft-themed moon.
 <details>
 <summary>Interiors:</summary>
 
@@ -35,15 +38,44 @@ Download it here:  [**DOWNLOAD LINK**](https://baconbaker5000.github.io/JacekCom
 <details>
 <summary>Interiors:</summary>
 
-100% - The Poolrooms<br>
+100% - we don't know<br>
 
 </details>
 
 ### Black Mesa
+A Half-Life themed moon.
 <details>
 <summary>Interiors:</summary>
 
 100% - Black Mesa Facility<br>
+
+</details>
+
+### Bozoros
+A colourful and bright moon.
+<details>
+<summary>Interiors:</summary>
+
+95% - The Playzone™<br>
+5% - Circus<br>
+
+</details>
+
+### Atlas Abyss
+A moon of dark secrets, jagged terrain and carved stone.
+<details>
+<summary>Interiors:</summary>
+
+100% - Office<br>
+
+</details>
+
+### Orion
+a vast desert landscape.
+<details>
+<summary>Interiors:</summary>
+
+100% - Tomb<br>
 
 </details>
 
