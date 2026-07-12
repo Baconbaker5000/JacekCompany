@@ -8,11 +8,12 @@ This is a custom modpack for Lethal Company!
 Download it here:  [**DOWNLOAD LINK**](https://baconbaker5000.github.io/JacekCompany/)
 
 # Changelog
-- new moons
-- new enemies
-- square up with J
-- shotguns cheaper
-- drunk = faster
+- Lots of new moons
+- Lots of new enemies
+- You can fight with your fists by pressing J and using both mouse buttons
+- Shotguns (and Shells) are buyable and on sale!
+- Getting drunk makes you capable of great speeds
+- The apparatus is twice as valuable and twice as dangerous
 
 
 # Moons
