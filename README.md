@@ -9,7 +9,7 @@ this is a test
 
 40% - Woodland Mansion<br>
 40% - Stronghold<br>
-20% - End City
+20% - End City<br>
 
 </details>
 
