@@ -22,7 +22,7 @@ Download it here:  [**DOWNLOAD LINK**](https://baconbaker5000.github.io/JacekCom
 
 # Moons
 
-### Taiga
+## Taiga
 A Minecraft-themed moon.
 <details>
 <summary>Interiors:</summary>
@@ -34,7 +34,7 @@ A Minecraft-themed moon.
 </details>
 
 
-### Aquatis
+## Aquatis
 <details>
 <summary>Interiors:</summary>
 
@@ -43,7 +43,7 @@ A Minecraft-themed moon.
 
 </details>
 
-### Black Mesa
+## Black Mesa
 A Half-Life themed moon.
 <details>
 <summary>Interiors:</summary>
