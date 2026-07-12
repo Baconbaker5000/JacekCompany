@@ -3,21 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Hide the default GitHub Pages / Primer header */
-header,
-.site-header,
-.Header,
-.Header-item,
-.site-title {
-  display: none !important;
-}
-
-/* Remove extra spacing caused by hidden header */
-.container-lg {
-  margin-top: 0 !important;
-}
-
-/* Page background */
 body,
 .container-lg,
 .markdown-body {
@@ -25,25 +10,12 @@ body,
   color: #e6edf3;
 }
 
-/* Links */
 a {
   color: #58a6ff;
 }
 
-/* Code blocks */
 code,
 pre {
   background-color: #161b22;
   color: #e6edf3;
-}
-
-/* Banner image support */
-.markdown-body img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* Optional: make the page feel more like a custom site */
-.markdown-body {
-  padding-top: 20px;
 }
