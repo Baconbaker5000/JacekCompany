@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="modpackbanner.png" alt="JacekCompany Banner">
+  <img src="modpackbannerv1.png" alt="JacekCompany Banner">
 </p>
 This is a custom modpack for Lethal Company!
 
