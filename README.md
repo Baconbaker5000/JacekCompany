@@ -23,6 +23,8 @@ Download it here:  [**DOWNLOAD LINK**](https://baconbaker5000.github.io/JacekCom
 # Moons
 <details>
 <summary>Moon Info:</summary>
+
+
 ## Taiga
 A Minecraft-themed moon.
 <details>
