@@ -5,7 +5,7 @@
 
 This is a custom modpack for Lethal Company!
 
-Download it here:  [**DOWNLOAD LINK**]([https://baconbaker5000.github.io/JacekCompany/])
+Download it here:  [**DOWNLOAD LINK**](https://baconbaker5000.github.io/JacekCompany/)
 
 # Moons
 
