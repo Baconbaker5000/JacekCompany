@@ -52,7 +52,7 @@ A Half-Life themed moon.
 
 </details>
 
-### Bozoros
+## Bozoros
 A colourful and bright moon.
 <details>
 <summary>Interiors:</summary>
@@ -62,7 +62,7 @@ A colourful and bright moon.
 
 </details>
 
-### Atlas Abyss
+## Atlas Abyss
 A moon of dark secrets, jagged terrain and carved stone.
 <details>
 <summary>Interiors:</summary>
@@ -71,7 +71,7 @@ A moon of dark secrets, jagged terrain and carved stone.
 
 </details>
 
-### Orion
+## Orion
 a moon with avast desert landscape.
 <details>
 <summary>Interiors:</summary>
@@ -81,7 +81,7 @@ a moon with avast desert landscape.
 
 </details>
 
-### Celest
+## Celest
 A moon with a distinct red forest surrounding a vast valley.
 <details>
 <summary>Interiors:</summary>
@@ -90,7 +90,7 @@ A moon with a distinct red forest surrounding a vast valley.
 
 </details>
 
-### Acidir
+## Acidir
 A moon with a dark and deadly swamp.
 <details>
 <summary>Interiors:</summary>
@@ -99,7 +99,7 @@ A moon with a dark and deadly swamp.
 
 </details>
 
-### Tartarus
+## Tartarus
 A Persona-themed moon.
 <details>
 <summary>Interiors:</summary>
