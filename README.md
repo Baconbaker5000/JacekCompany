@@ -38,7 +38,7 @@ A Minecraft-themed moon.
 <details>
 <summary>Interiors:</summary>
 
-100% - we don't know<br>
+100% - Castle<br>
 
 </details>
 
@@ -71,11 +71,38 @@ A moon of dark secrets, jagged terrain and carved stone.
 </details>
 
 ### Orion
-a vast desert landscape.
+a moon with avast desert landscape.
 <details>
 <summary>Interiors:</summary>
 
 100% - Tomb<br>
+
+</details>
+
+### Celest
+A moon with a distinct red forest surrounding a vast valley.
+<details>
+<summary>Interiors:</summary>
+
+100% - Liminal House<br>
+
+</details>
+
+### Acidir
+A moon with a dark and deadly swamp.
+<details>
+<summary>Interiors:</summary>
+
+100% - Gothic Manor<br>
+
+</details>
+
+### Tartarus
+A Persona-themed moon.
+<details>
+<summary>Interiors:</summary>
+
+100% - Tartarus Tower<br>
 
 </details>
 
