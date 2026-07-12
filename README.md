@@ -1,10 +1,9 @@
-This is a custom modpack for Lethal Company!
-
-Download it here:  [Download Modpack](https://pages.github.com/)
-
 <p align="center">
   <img src="modpackbanner.png" alt="JacekCompany Banner">
 </p>
+This is a custom modpack for Lethal Company!
+
+Download it here:  [Download Modpack](https://pages.github.com/)
 
 # Moons
 
