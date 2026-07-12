@@ -8,9 +8,16 @@ body, .container-lg, .markdown-body {
   color: #e6edf3;
 }
 
-a { color: #58a6ff; }
+a { 
+  color: #58a6ff; 
+}
 
 code, pre {
   background-color: #161b22;
   color: #e6edf3;
+}
+
+/* Hide the Primer theme header */
+.site-header {
+  display: none;
 }
