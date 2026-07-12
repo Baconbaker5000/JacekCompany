@@ -12,6 +12,7 @@ Download it here:  [**DOWNLOAD LINK**](https://baconbaker5000.github.io/JacekCom
 - new enemies
 - square up with J
 - shotguns cheaper
+- drunk = faster
 
 
 # Moons
