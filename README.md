@@ -35,6 +35,7 @@ A Minecraft-themed moon.
 
 
 ## Aquatis
+A beachy, tropical moon.
 <details>
 <summary>Interiors:</summary>
 
@@ -105,6 +106,15 @@ A Persona-themed moon.
 <summary>Interiors:</summary>
 
 100% - Tartarus Tower<br>
+
+</details>
+
+## Peter
+Violence in movies
+<details>
+<summary>Interiors:</summary>
+
+100% - Vanilla Interiors<br>
 
 </details>
 
