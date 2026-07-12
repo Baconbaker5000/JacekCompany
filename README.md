@@ -38,7 +38,8 @@ A Minecraft-themed moon.
 <details>
 <summary>Interiors:</summary>
 
-100% - Castle<br>
+90% - The Subsystems<br>
+10% - Castle<br>
 
 </details>
 
@@ -75,7 +76,8 @@ a moon with avast desert landscape.
 <details>
 <summary>Interiors:</summary>
 
-100% - Tomb<br>
+80% - Tomb<br>
+20% - Castle<br>
 
 </details>
 
