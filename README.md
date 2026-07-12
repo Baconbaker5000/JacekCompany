@@ -5,7 +5,7 @@
 
 This is a custom modpack for Lethal Company!
 
-Download it here:  [**DOWNLOAD LINK**]([https://pages.github.com/](https://firstbenefits.org/wp-content/uploads/2017/10/placeholder-1024x1024.png))
+Download it here:  [**DOWNLOAD LINK**]([https://pages.github.com/](https://firstbenefits.org/wp-content/uploads/2017/10/placeholder-1024x1024))
 
 # Moons
 
