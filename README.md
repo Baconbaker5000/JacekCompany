@@ -7,6 +7,13 @@ This is a custom modpack for Lethal Company!
 
 Download it here:  [**DOWNLOAD LINK**](https://baconbaker5000.github.io/JacekCompany/)
 
+# Changelog
+- new moons
+- new enemies
+- square up with J
+- shotguns cheaper
+
+
 # Moons
 
 ### Taiga
@@ -41,4 +48,8 @@ Download it here:  [**DOWNLOAD LINK**](https://baconbaker5000.github.io/JacekCom
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 
-
+TODO
+make locker for sure spawn on one moon
+fix up moon-interior weights
+remove dogs
+test multiplayers
